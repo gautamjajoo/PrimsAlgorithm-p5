@@ -13,3 +13,5 @@ All the connected vertices are assing `0` as the keyValue.
 
 Similarly, we calculate the minimum distance for all vertices and join one by one. 
 
+![Screenshot from 2021-04-04 16-12-46](https://user-images.githubusercontent.com/24366008/113507948-0b62dd80-956b-11eb-819b-3c081898da81.png)
+
